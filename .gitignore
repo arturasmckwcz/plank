@@ -1,0 +1,35 @@
+# Xcode
+#
+build/
+DerivedData/
+*.hmap
+*.ipa
+*.playground
+
+# User settings
+#
+xcuserdata/
+
+# Swift Package Manager
+#
+.build/
+.swiftpm/
+
+# CocoaPods (If using)
+#
+Pods/
+
+# Carthage (If using)
+#
+Carthage/Build/
+
+# Fastlane (If using)
+#
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Security
+#
+*.xcuserstate
