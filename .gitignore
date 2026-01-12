@@ -33,3 +33,7 @@ fastlane/test_output
 # Security
 #
 *.xcuserstate
+
+# OSX
+#
+.DS_Store
